@@ -1,8 +1,8 @@
 <h1> Olá! Eu sou Abhay Charan <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 
-- 🔥 Desnvolvedor front-end JR
+- 🔥 Desenvolvedor front-end JR
 
-- 📚 Atualmente cursando Análise e Dsenvolvimento de Sistemas(ADS)
+- 📚 Atualmente cursando Análise e Desenvolvimento de Sistemas(ADS)
 
 - [Portifólio em construção ⚒️]
 
